@@ -35,3 +35,4 @@ HOD access credentials:
 username: nti
 password: Root@12345
 
+Note: XAMPP application is used to host and run the system on the local client machine
