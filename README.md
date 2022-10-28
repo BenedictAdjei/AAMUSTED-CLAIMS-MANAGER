@@ -9,8 +9,29 @@ The Functionalities of the system
 
 The system has four main users. These users are:
 The Root
-The Head Of Departments
+The Head Of Departments (HOD)
 The Accountant
 And last but not least, The Lecturer.
 
-The Root 
+The Root is able to 
+Register new staff
+Assign staff roles
+Assign access permisions
+Manipulate how the system should operate
+
+Root access credentials:
+username: Root
+password: Root@12345
+
+Lecturer access credentials:
+username: Mr. Ben
+password: 123456
+
+Accountant access credentials:
+username: Mr. Sam
+password: 12345
+
+HOD access credentials:
+username: nti
+password: Root@12345
+
